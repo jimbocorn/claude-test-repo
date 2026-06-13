@@ -1,9 +1,6 @@
 name: Build APK
 
 on:
-  push:
-    branches:
-      - claude/chilean-condor-game-8wpeof
   workflow_dispatch:
 
 jobs:
